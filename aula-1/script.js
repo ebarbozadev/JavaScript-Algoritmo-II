@@ -1,6 +1,7 @@
 const empresas = require('./arrays');
 
 for(empresa in empresas){
+    const empresasUnificadas = empresas[empresa];
     for(let nEmpresa = 0; nEmpresa < 1; nEmpresa++){
         for(let i = 0; i < empresas[empresa].length; i++){
             console.log(
@@ -9,3 +10,5 @@ for(empresa in empresas){
         }
     }
 }
+
+console.log(empresasUnificadas);
