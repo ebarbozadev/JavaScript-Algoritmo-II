@@ -21,11 +21,11 @@
 <section id="tabela-de-conteudo">
     <h2 style="font-size: 1.25rem;">Tabela de Conteúdo</h2>
     <ul style="text-align: justify;">
-        <li>Aprender mais exemplos de algoritmos de ordenação e busca</li>
-        <li>Entender os conceitos e paradigmas por trás dos algoritmos estudados</li>
-        <li>Desenvolver a prática de traduzir a lógica do algoritmo em código</li>
-        <li>Analisar o código de um algoritmo para entender sua complexidade</li>
-        <li>Ver como os algoritmos resolvem problemas de computação</li>
+        <li>Aprender mais exemplos de algoritmos de ordenação e busca;</li>
+        <li>Entender os conceitos e paradigmas por trás dos algoritmos estudados;</li>
+        <li>Desenvolver a prática de traduzir a lógica do algoritmo em código;</li>
+        <li>Analisar o código de um algoritmo para entender sua complexidade;</li>
+        <li>Ver como os algoritmos resolvem problemas de computação.</li>
     </ul>
 </section>
 
